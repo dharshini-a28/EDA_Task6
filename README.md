@@ -49,9 +49,6 @@ The notebook uses fields including:
    - Monthly patient admissions line chart
    - Correlation heatmap for numerical columns
 
-<img width="353" height="275" alt="Screenshot 2026-10-14 093333" src="https://github.com/user-attachments/assets/243db09e-9b24-40f5-8f8d-8537c7a442e5" />
-<img width="584" height="294" alt="Screenshot 2026-10-14 085031" src="https://github.com/user-attachments/assets/c4c9cdf4-f58e-41ec-9f1d-8fb700dc17cb" />
-<img width="578" height="254" alt="Screenshot 2026-10-14 085006" src="https://github.com/user-attachments/assets/1e4d3e69-9f4b-4ea8-93c3-98d51c79109c" />
-<img width="581" height="248" alt="Screenshot 2026-10-14 084945" src="https://github.com/user-attachments/assets/e56f632e-9c55-41ee-88e2-122c7246f8b0" />
+<img width="353" height="275" alt="Screenshot 2026-10-14 093333" src="https://github.com/user-attachments/assets/ef062b62-f028-43c5-b7f5-def1d6d2d2f9" />
 
-
+<img width="578" height="254" alt="Screenshot 2026-10-14 085006" src="https://github.com/user-attachments/assets/497ad6f5-66bf-4577-a677-e05b5c6a12e7" />
